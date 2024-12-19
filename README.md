@@ -1,8 +1,1 @@
-def count_chars(s):
-    result = {}
-    for char in s:
-        if char not in result:
-            result[char] = 1
-        else:
-            result[char] += 1
-    return result
+The given Python code is a function that sorts a list of tuples by the last element of each tuple.
